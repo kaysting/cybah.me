@@ -1,0 +1,24 @@
+<%
+
+icon = 'error';
+title = 'Error 404';
+tabTitle = title;
+desc = `Not sure where you were trying to go with this one...`;
+
+%>
+<%- include('../partials/top.ejs') %>
+
+<h2>Whoops!</h2>
+<p>We can't find where you were trying to go!</p>
+<p>Make sure you typed the URL correctly, then try again. Also consider checking <a href="https://old.simplecyber.org">the old site</a> for the resource.</p>
+<div class="col gap-5">
+    <p>If you're sure that this link should be working, contact <b>@Cyber#1000</b> on Discord to report the issue.</p>
+    <div class="row align-end">
+        <a class="btn" href="/">
+            <div class="icon">home</div>
+            Take me home!
+        </a>
+    </div>
+</div>
+
+<%- include('../partials/bottom.ejs') %>

@@ -1,0 +1,45 @@
+[{
+    "icon": "deployed_code",
+    "title": "Discord bot commissions",
+    "desc": "Want a custom bot for your server but don't have the time or knowledge to make one? Fear not! I'll develop it for you for a fair price! Add me on Discord <b>@cybahh</b> to get started."
+}, {
+    "href": "https://github.com/CyberGen49/discord-chatgpt",
+    "icon": "smart_toy",
+    "title": "Discord ChatGPT",
+    "desc": "A Discord bot that allows users to interact with OpenAI's GPT large language models and DALL-E image generators."
+}, {
+    "href": "https://github.com/CyberGen49/spigot-deaths",
+    "icon": "skull",
+    "title": "CyberDeaths",
+    "desc": "A Spigot Minecraft server plugin that overrides the default death messages with super customizable ones!"
+}, {
+    "href": "https://github.com/CyberGen49/spigot-rename",
+    "icon": "edit_note",
+    "title": "CyberRename",
+    "desc": "A simple plugin for Spigot Minecraft servers that allows players to change the name and lore of their items with commands."
+}, {
+    "href": "https://github.com/CyberGen49/spigot-tpr",
+    "icon": "travel_explore",
+    "title": "CyberTPR",
+    "desc": "A simple random teleportation plugin for Spigot Minecraft servers."
+}, {
+    "href": "https://github.com/CyberGen49/cyberfiles-lite",
+    "icon": "folder_open",
+    "title": "CyberFiles Lite",
+    "desc": "A (not so) bare-bones file index built to work with Node.js Express and look like GitHub's file browser, complete with file previews and more!"
+}, {
+    "href": "https://cybot.simplecyber.org",
+    "icon": "smart_toy",
+    "title": "Cybot",
+    "desc": "A Discord bot hosting a whole bunch of slash commands to make your life easier, featuring useful tools like RNG, a link shortener, YouTube video downloader, and more!"
+}, {
+    "href": "https://bdaybot.simplecyber.org",
+    "icon": "celebration",
+    "title": "Cyber's BirthdayBot",
+    "desc": "A Discord bot created to make your birthday as happy as possible! Set your birthday once, and have it announced in all the servers that you share with the bot."
+}, {
+    "href": "https://github.com/CyberGen49/CyberTasks",
+    "icon": "done",
+    "title": "CyberTasks",
+    "desc": "An easy to use to-do list and task scheduler webapp inspired by Microsoft To-Do and Google Tasks with server side storage."
+}]

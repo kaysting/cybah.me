@@ -1,0 +1,221 @@
+[{
+    "year": 2003, "month": 1, "day": 2,
+    "title": "The beginning",
+    "desc": [
+        "From birth, I was mesmerized by screens. My parents would put on TV programs for me and I would watch the music visualizer in iTunes on the computer. The bright colours of both had me captivated."
+    ]
+}, {
+    "year": 2008,
+    "title": "Introduction to photography",
+    "desc": [
+        "My dad gave me his old 2001 Sony CyberShot digital camera to play with, which kickstarted my interest in photography. I spent a lot of time taking pictures of literally anything. Having not figured out the video functionality, I made pseudo-stop motion animations with Lego and played them back by using the arrow keys.",
+        "He also showed me how to transfer images from the camera to the computer, which I did a lot. This was my introduction to using the computer by myself, but I only used it for this purpose."
+    ]
+}, {
+    "year": 2009,
+    "title": "More computer usage",
+    "desc": [
+        "As I got more comfortable using the computer to transfer images off of my camera, I spent more time using it. I spent a lot of time playing with Microsoft Word and Paint, having fun with the spray can tool in Paint and making funny word art in Word.",
+        "Online flash games on Coolmath also became a regular activity for me, to the point where I would wake up before school to play newly added games."
+    ]
+}, {
+    "year": 2011,
+    "title": "Camera upgrade!",
+    "desc": [
+        "My grandma had a newer Sony CyberShot camera that she wasn't using, so she gave it to me. This one was able to store a lot more data and was able to shoot video, so I upped my game! I was still fascinated by simply taking pictures of things."
+    ]
+}, {
+    "year": 2014, "month": 1, "day": 3,
+    "title": "Another camera upgrade!!",
+    "desc": [
+        "Still passionate about photography, I used Christmas/birthday money to buy a newer Samsung digital camera. It was still a basic point-and-shoot, but it was a lot better than my old Sony cameras. I started taking even more pictures!"
+    ]
+}, {
+    "year": 2014, "month": 4,
+    "title": "Featured photo!",
+    "desc": [
+        "I took a black and white picture of our dog with my new camera and submitted it to our local library's photography showcase. They liked it enough to have it framed in the library's front display case!"
+    ]
+}, {
+    "year": 2014, "month": 6,
+    "title": "Minecraft",
+    "desc": [
+        "As a reward for finishing my 5th grade year, my parents bought me Minecraft on PC, since I mentioned that some of my friends were talking about it. This launched me into a full-blown obsession, where I spent every ounce of free time playing.",
+        "Our family has never had any game consoles, so Minecraft was the first \"real\" game for me to experience - and it was amazing!",
+        "This also directed my interests much more toward computers, since Minecraft encourages more in-depth computer usage when it comes to modding, making resourcepacks, and more.",
+        "Minecraft was also my introduction to YouTube, where I would regularly watch channels like Stampy, PopularMMOs, and more."
+    ]
+}, {
+    "year": 2015, "month": 1, "day": 2,
+    "title": "I got a phone!",
+    "desc": [
+        "For my 12th birthday, I got an iPhone 6 Plus, which was very exciting! This made taking pictures of everything I found interesting so much easier!"
+    ]
+}, {
+    "year": 2015, "month": 2,
+    "title": "My own computer!",
+    "desc": [
+        "Up until this point, I had been playing Minecraft and otherwise messing around with our old eMachines desktop, which was very slow.",
+        "My dad upgraded his personal computer, so I was able to take his old one: a Toshiba Satellite from Best Buy. It wasn't powerful by any means, but it was still a massive upgrade.",
+        "While this gave me even more chances to play Minecraft, it also allowed me to dive into things like Windows customization with visual styles. I loved making my computer look exactly how I wanted, even if it meant breaking and having to reinstall Windows many times over.",
+        "The troubleshooting surrounding my customization breaking the operating system taught me a lot about fixing software issues, handling OS reinstalls, and more."
+    ]
+}, {
+    "year": 2015, "month": 7,
+    "title": "Introduction to programming",
+    "desc": [
+        "I went to a week-long day camp at the University of Houston that taught the basics of Java programming. Over the week, we developed our own text-based adventure games. I learned essential programming concepts like control structures and variables that would stick with me forever."
+    ]
+}, {
+    "year": 2016, "month": 6,
+    "title": "A new laptop!",
+    "desc": [
+        "My mom's laptop, a newer and more powerful Toshiba Satellite, got infected with malware, so we bought her a new laptop and I took the old one. I cleaned it up enough to replace my old Satellite with it."
+    ]
+}, {
+    "year": 2016, "month": 7,
+    "title": "Minecraft server hosting",
+    "desc": [
+        "My parents got me a book on how to develop Minecraft server plugins. I started reading through it, and the first step taught me how to set up a server. I followed along and got one running, and was excited to have just gotten that far! I took this as the chance to start my server hosting journey and didn't read any more of the book.",
+        "Soon after, and after figuring out the networking side of things with port forwarding, I published my first server: a small PvP server run entirely with command blocks. Sadly, it didn't last long as my systems weren't versatile enough and players didn't stay engaged."
+    ]
+}, {
+    "year": 2016, "month": 12, "day": 11,
+    "title": "SimpleCyberSurvival",
+    "desc": [
+        "After learning a bit more about server hosting and plugins, I put together my next public server: a basic survival server. This server stayed up for longer (7 months) and was much more popular than the last. It also let me meet people who are still in my core friend group to this day!",
+        "As I continued experimenting with server hosting, I was introduced to Linux and how much better it is for this purpose. I set up my older Satellite laptop as the server PC and hosted from there, which let me keep my servers running 24/7."
+    ]
+}, {
+    "year": 2017, "month": 1,
+    "title": "I bought a laptop!",
+    "desc": [
+        "Unsatisfied with the performance of the two laptops I had, I decided to buy myself a laptop with dedicated graphics and ended up with an ASUS Vivobook Flip. Not only did this mean I finally had a computer that \"just worked,\" but I was able to dedicate the newer Satellite to server hosting."
+    ]
+}, {
+    "year": 2017, "month": 10,
+    "title": "I got a powerful PC",
+    "desc": [
+        "My dad, who noticed how much I was \"gaming\" (still just Minecraft) and who needed a reliable system to keep business data backups on, bought me a powerful desktop PC, equipped with a GTX 1080 and i7-6700k. This was truly a massive upgrade, and allowed me to play Minecraft with shaders full-time - which was always a dream of mine!",
+        "Embarrassingly, this was less than a year after I had spent my own money on a computer. I felt bad about it, but the laptop would become my travel PC for a while before devoting its life to server hosting."
+    ]
+}, {
+    "year": 2018, "month": 1, "day": 1,
+    "title": "Phone upgrade!",
+    "desc": [
+        "For my 15th birthday, I made the jump to Android and got the Pixel 2 XL, specifically because of its reputation as the best smartphone camera of the time. I was ready to upgrade my photo game, and this certainly did it!",
+        "At this point, I started posting pictures of places on Google Maps, which amassed millions of views over time."
+    ]
+}, {
+    "year": 2018, "month": 4,
+    "title": "The SimpleCyber Network",
+    "desc": [
+        "Ready to pick up public server hosting again after a several-month hiatus, I put together a website (with Google Sites) and brand name for my servers: SimpleCyber Network. Following this, I published the next SimpleCyberSurvival server, but it sadly didn't last long."
+    ]
+}, {
+    "year": 2019, "month": 6,
+    "title": "SimpleCyberSurvival 3",
+    "desc": [
+        "Still itching to have a successful public Minecraft server, I put together SCS 3, which was more equipped plugin-wise than any of my previous servers.",
+        "Lucky for me, the resurgence of Minecraft's popularity at this time made the effort worth it, and the server saw over a dozen players on at once. While still not huge, it was the best I had ever done.",
+        "I made even more friends on this server, making up the other half of my current friend group."
+    ]
+}, {
+    "year": 2019, "month": 8,
+    "title": "Rainmeter",
+    "desc": [
+        "Up until this point, the only way I was able to design user interfaces was with Google Slides or Google Drawings. I was itching to be able to develop UIs that were actually functional and interactive.",
+        "I had been using Rainmeter, a desktop customization tool, for a while, so I decided to dive in and learn how to make my own skins.",
+        "Developing for Rainmeter gave me a taste of real UI development, and I was hooked! I made skin after skin, even publishing some on DeviantArt and Reddit to much success. People loved my minimalistic designs!"
+    ]
+}, {
+    "year": 2020, "month": 2,
+    "title": "SpotiPlayer",
+    "desc": [
+        "I released my most successful Rainmeter skin, called SpotiPlayer, which was a replica of the Spotify mobile app UI that allowed you to control music playing on your PC. It was a massive hit with the community!",
+        "Sadly, I was getting burnt out on Rainmeter development, so this was the last big project I would release."
+    ]
+}, {
+    "year": 2020, "month": 2,
+    "title": "Quarantine with friends!",
+    "desc": [
+        "All of my public servers had been shut down due to inactivity, but the friends I made through them were still all in one place. One of them proposed that we host a private server just for us, so that's what we did!",
+        "Quarantine hit shortly after starting, which left us all with an abundance of free time. This meant that the server was very active, and we all had a blast! No time has been able to compare to this bliss."
+    ]
+}, {
+    "year": 2020, "month": 8,
+    "title": "Web development",
+    "desc": [
+        "I had been interested in web development for several months, but could never really get into it. Video tutorials were hard to follow, and I didn't have any ideas to motivate me to learn.",
+        "I heard about a self-hostable file index called h5ai, and decided to boot it up on my server PC. I loved being able to host my own files to be accessible over the internet, and I wanted to customize the interface to my liking.",
+        "I dug into h5ai's CSS and made all the changes I could, which got me hooked. I was finally able to truly make a UI that was functional and interactive, and I loved it! This finally had the motivation to learn all the CSS, HTML, Javascript, and PHP that I could so I could make my own websites too!"
+    ]
+}, {
+    "year": 2021, "month": 4,
+    "title": "osu!",
+    "desc": [
+        "One of my friends had started playing osu!, a rhythm game where you click circles to the beat of music. He introduced it to me and I was hooked. I've always loved music, and being able to tap along to it and look super cool in the process felt amazing!",
+        "This game would consume most of the rest of my year."
+    ]
+}, {
+    "year": 2021, "month": 11,
+    "title": "Gender",
+    "desc": [
+        "I told two of my closest friends, who were both out to me as trans, that I was questioning my gender identity and had been for years. Gender dysphoria had been occupying an increasing amount of my thoughts, but there was a lot more thinking that needed to go into things before I could come to any conclusions.",
+        "This would mark the beginning of my journey."
+    ]
+}, {
+    "year": 2022, "month": 3,
+    "title": "Node.js",
+    "desc": [
+        "Having gotten pretty confident with my Javascript skills, I decided to finally ditch PHP as my backend scripting language and move over to Node.js. Node gave me the chance to use more complex things like websockets, and made it a lot easier to use libraries, APIs, and other resources.",
+        "Node also allowed me to move away from Apache and build my own super versatile web servers that met the needs of my websites perfectly!"
+    ]
+}, {
+    "year": 2022, "month": 4,
+    "title": "Gender (part 2)",
+    "desc": [
+        "Having spent lots of time talking with my friends about my gender identity, I finally mustered up the courage to tell my parents the same thing I told my friends back in November. They received it well, but didn't have much to offer as I was still very unsure of myself. The key was to continue building my support system."
+    ]
+}, {
+    "year": 2022, "month": 7,
+    "title": "Gender (part 3)",
+    "desc": [
+        "Continuing my dive deep into myself, I wanted more people to know about how I was feeling and how I wanted to present. I came out to my whole friend group as non-binary and asked them to start using they/them pronouns for me, which they did in a heartbeat!",
+        "I would spend the next several months thinking very deeply into myself and what I wanted, and started to formulate some sense of certainty."
+    ]
+}, {
+    "year": 2022, "month": 9,
+    "title": "Discord bot development",
+    "desc": [
+        "Now that I was comfortable with Node.js, I wanted to tackle Discord bots. In the past, I made lots of use of Discord webhooks to periodically send messages in my servers, but I wanted to make interactive experiences using commands, buttons, modals, and more!",
+        "After learning the Discord.js library, I dove in and started building!"
+    ]
+}, {
+    "year": 2022, "month": 12,
+    "title": "\"I think I'm trans\"",
+    "desc": [
+        "Thoughts about my gender identity had become very prominent and gender dysphoria led me to spend chunks of time just laying low not doing much, drowning in thoughts of what I wanted but couldn't have.",
+        "Having come to some amount of a conclusion, I told my parents that I thought I was trans and that I wanted to start doing something about it. They listened, but because I still wasn't totally sure of anything, all we could do was talk through things for the time being."
+    ]
+}, {
+    "year": 2023, "month": 4,
+    "title": "Minecraft Spigot server plugins",
+    "desc": [
+        "Despite spending two years of school learning Java, I was very hesitant to actually develop with it. As my friend group was talking about starting another public Minecraft server, I decided it was finally time for me to bite the bullet and dive into plugin development.",
+        "After setting up my environment with VSCode, I came to the realization that Java isn't so bad! With the help of Spigot's documentation, I was able to pick up Spigot development quickly and finally start making custom plugins for my servers!"
+    ]
+}, {
+    "year": 2023, "month": 5,
+    "title": "My name is Kayla, and I'm a girl!",
+    "desc": [
+        "I had finally become pretty certain of my gender identity and what I wanted, and I was sick of being in denial, so I decided it was finally time to embrace being trans! What followed was a transformation of my online profiles to a new look and having my friends and family start using my new name, Kayla, and she/her pronouns to refer to me.",
+        "I still had a long way to go before I could feel like my authentic self, but I was finally on the right track, and I had built a good support system to fall back on should I need help!"
+    ]
+}, {
+    "useCurrentDate": true,
+    "title": "Today",
+    "desc": [
+        "Who's to say what the future holds?"
+    ]
+}]

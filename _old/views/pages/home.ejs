@@ -1,0 +1,72 @@
+<%
+
+icon = 'home';
+title = 'Welcome!';
+tabTitle = 'Hi!';
+desc = `I'm Cyber, a student majoring in Computer Science who does web development for fun and plays games sometimes. Click to learn more about me and my projects!`;
+
+%>
+<%- include('../partials/top.ejs') %>
+
+<h2>Hi!</h2>
+<p>I'm <b>Cyber</b>, also known online as <b>CyberGen49</b>, <b>CyberOfficial</b>, or more recently, <b>Cybah</b>. I'm a student majoring in Computer Science at the University of Houston, and I've been into web development for a few years now. I've wanted a personal website where I can share my creations and tell people a little bit about myself, so that's what this is!</p>
+<p>You can read more about me below.</p>
+
+<h2>My projects</h2>
+<div id="projects">
+    <% [{
+        href: 'https://github.com/CyberGen49/discord-chatgpt',
+        icon: 'smart_toy',
+        title: 'Discord ChatGPT',
+        desc: `A Discord bot that allows users to interact with OpenAI's <code>gpt-3.5-turbo</code> large language model, which is the same one used for ChatGPT.`,
+    }, {
+        href: 'https://github.com/CyberGen49/cyberfiles-lite',
+        icon: 'folder',
+        title: 'CyberFiles Lite',
+        desc: `A (not so) bare-bones file index built to work with Node.js Express and look like GitHub's file browser. This is the fourth installment of the CyberFiles saga and is the easiest yet to get up and running.`,
+    }, {
+        href: 'https://cybot.simplecyber.org',
+        icon: 'smart_toy',
+        title: 'Cybot',
+        desc: `A Discord bot hosting a whole bunch of slash commands to make your life easier. This bot features commands for most of the tools on Cyber's Toolbox (described below), along with a link shortener, YouTube video downloader, and more!`,
+    }, {
+        href: 'https://bdaybot.simplecyber.org',
+        icon: 'celebration',
+        title: `Cyber's BirthdayBot`,
+        desc: `A Discord bot created to make your birthday as happy as possible! Set your birthday once, and have it announced in all the servers that you share with the bot.`,
+    }, {
+        href: 'https://github.com/CyberGen49/CyberTasks',
+        icon: 'done',
+        title: 'CyberTasks',
+        desc: `An easy to use to-do list and task scheduler webapp inspired by Microsoft To-Do and Google Tasks that helped me learn about progressive web apps and Node.js' Express module. This app is still in a private beta, so only allowed users have access. Contact me on Discord <b>@Cyber#1000</b> if you'd like to try it out.`,
+    }, {
+        href: 'https://tools.simplecyber.org',
+        icon: 'construction',
+        title: `Cyber's Toolbox`,
+        desc: `A growing collection of useful tools to make your life easier! Somewhat deprecated by Cybot (described above).`,
+    }].forEach(project => { %>
+    <a class="project" href="<%= project.href %>" target="_blank">
+        <div class="icon"><%= project.icon %></div>
+        <div class="text">
+            <div class="title"><%= project.title %></div>
+            <p class="desc"><%- project.desc %></p>
+        </div>
+    </a>
+    <% }); %>
+</div>
+<p>There are many more unfinished or abandoned projects that can be found on my <a href="https://github.com/CyberGen49">GitHub</a> and <a href="https://www.deviantart.com/cybergen49">DeviantArt</a>.</p>
+
+<h2>My history</h2>
+<p>My interest in computers took off when I was around 11 years old, sparked by the game Minecraft, which is technical in nature and taught me the basics of the Windows filesystem. My parents were against game consoles, so my only exposure to computer games before this point were those found on sites like Coolmath Games. Saying that I got addicted to Minecraft is an understatement.</p>
+<p>Soon after, I dove into the world of Windows visual styles, which allowed you to make Windows 7 look just about however you wanted, at the cost of stability. The constant crashes and corruptions that resulted from this theming strengthened by troubleshooting skills.</p>
+<p>Later on, I made my way into the Minecraft server hosting space, where I would deepen my understanding of system optimization, networking, and operating systems like Linux, all while pleasing other players and making long-lasting online friends. It was also around this time that I became very familiar with shell programming languages like Windows Batch, spending hours writing custom server start scripts, and the like.</p>
+<p>I eventually tired of hosting servers publicly for other players, dealing with their bad behaviour, and keeping everything running smoothly. Around this time, I had a growing itch to start developing something graphical, breaking free from the command line. Rainmeter, the desktop customization software, would come to scratch that itch. Over the next year, I would develop a handful of relatively successful skins for Rainmeter, including a mobile Spotify-like music display, along with several sidebars and topbars.</p>
+<p>Unfortunately, the amount of Rainmeter development I did burnt me out, and I was never able to finish any of my projects as my hopes were far too ambitious for what Rainmeter was designed for. That, combined with the added pressure of a community that I built through my skins, pushed me to stop developing for Rainmeter altogether. With 2020's quarantine in full effect, I instead chose to spend my time on privately hosted Minecraft servers with my friends.</p>
+<p>Later in the year, still itching to develop more graphical, god looking, and useful things, I decided to take a deep dive into web development. What would follow would be a gigantic, multi-year-long crash course in HTML, CSS, PHP, and Javascript, where I would spend my days experimenting and learning as much as I could.</p>
+<p>More recently, having become quite familiar with Javascript in the browser, I ditched PHP for my serverside scripts and chose to learn Node.js, which opened up many more opportunities for deeper operating system integration, allowing me to take advantage of frameworks like Election for desktop app development, Discord.js for creating Discord bots, Express for hosting websites and REST APIs, and more.</p>
+<p>This brings us to today, where I spend my time making Discord bots and miscellaneous websites when I have some cool idea. My friend group has become less active, so we don't play games as much, but school and YouTube occupy the rest of my free time.</p>
+
+<h2>Reach out</h2>
+<p>Feel free to DM me at any time on Discord <b>@Cyber#1000</b>. I've been told I'm a good listener, so if you just want to talk, I'm here!</p>
+
+<%- include('../partials/bottom.ejs') %>

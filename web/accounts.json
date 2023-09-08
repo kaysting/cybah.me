@@ -1,0 +1,74 @@
+[{
+    "site": "Discord",
+    "icon": "discord-color.svg",
+    "title": "cybahh"
+}, {
+    "site": "Spotify",
+    "icon": "spotify-color.svg",
+    "title": "Kayla",
+    "href": "https://open.spotify.com/user/dbqectp3dtptpcbdjm5nz9jaa"
+}, {
+    "site": "GitHub",
+    "icon": "github-color.svg",
+    "title": "CyberGen49",
+    "href": "https://github.com/CyberGen49"
+}, {
+    "site": "npm",
+    "icon": "npm-color.svg",
+    "title": "cybergen49",
+    "href": "https://www.npmjs.com/~cybergen49"
+}, {
+    "site": "Reddit",
+    "icon": "reddit-color.svg",
+    "title": "CyberGen49",
+    "href": "https://www.reddit.com/user/CyberGen49"
+}, {
+    "site": "YouTube",
+    "icon": "youtube-color.svg",
+    "title": "CyberGen49",
+    "href": "https://www.youtube.com/@cybergen49",
+    "slug": "yt-main"
+}, {
+    "site": "YouTube",
+    "icon": "youtube-color.svg",
+    "title": "CDI Productions",
+    "href": "https://www.youtube.com/@cdiproductions8035",
+    "slug": "yt-cdi"
+}, {
+    "site": "YouTube",
+    "icon": "youtube-color.svg",
+    "title": "SCN Official",
+    "href": "https://www.youtube.com/@scnofficial8453",
+    "slug": "yt-scn"
+}, {
+    "site": "osu!",
+    "icon": "osu-color.svg",
+    "title": "CyberGen49",
+    "href": "https://osu.ppy.sh/users/22737645"
+}, {
+    "site": "Steam",
+    "icon": "steam-color.svg",
+    "title": "Cybah",
+    "href": "https://steamcommunity.com/id/cybergen49/"
+}, {
+    "site": "Twitch",
+    "icon": "twitch-color.svg",
+    "title": "cybah2",
+    "href": "https://www.twitch.tv/cybah2"
+}, {
+    "site": "Google Maps",
+    "icon": "googlemaps-color.svg",
+    "title": "CyberGen49",
+    "href": "https://www.google.com/maps/contrib/103985333402100090631",
+    "slug": "maps"
+}, {
+    "site": "Venmo",
+    "icon": "venmo-color.svg",
+    "title": "cybahh",
+    "href": "https://account.venmo.com/u/cybahh"
+}, {
+    "site": "DeviantArt",
+    "icon": "deviantart-color.svg",
+    "title": "CyberGen49",
+    "href": "https://www.deviantart.com/cybergen49"
+}]
