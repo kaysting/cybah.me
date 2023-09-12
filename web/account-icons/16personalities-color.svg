@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="51.92" height="51.92"/>
+  </defs>
+  <ellipse style="fill: rgb(116, 143, 87);" cx="250" cy="352.063" rx="55.538" ry="55.538"/>
+  <ellipse style="fill: rgb(229, 201, 39);" cx="342.437" cy="255" rx="55.538" ry="55.538"/>
+  <ellipse style="fill: rgb(117, 76, 96);" cx="152.454" cy="255" rx="55.538" ry="55.538"/>
+  <ellipse style="fill: rgb(78, 171, 172);" cx="250" cy="158.12" rx="55.538" ry="55.538"/>
+  <ellipse style="fill: rgb(78, 171, 172);" cx="135.504" cy="91.988" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(78, 171, 172);" cx="206.966" cy="61.305" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(78, 171, 172);" cx="291.081" cy="61.305" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(78, 171, 172);" cx="358.536" cy="91.988" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(116, 143, 87);" cx="135.504" cy="420.242" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(116, 143, 87);" cx="206.966" cy="450.222" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(116, 143, 87);" cx="291.081" cy="450.222" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(116, 143, 87);" cx="358.536" cy="420.242" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(229, 201, 39);" cx="412.529" cy="367.386" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(229, 201, 39);" cx="442.508" cy="296.115" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(229, 201, 39);" cx="442.508" cy="214.759" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(229, 201, 39);" cx="412.529" cy="144.088" rx="23.297" ry="23.297"/>
+  <ellipse style="fill: rgb(117, 76, 96);" cx="-83.254" cy="367.386" rx="23.297" ry="23.297" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  <ellipse style="fill: rgb(117, 76, 96);" cx="-53.275" cy="296.115" rx="23.297" ry="23.297" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  <ellipse style="fill: rgb(117, 76, 96);" cx="-53.275" cy="214.759" rx="23.297" ry="23.297" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+  <ellipse style="fill: rgb(117, 76, 96);" cx="-83.254" cy="144.088" rx="23.297" ry="23.297" transform="matrix(-1, 0, 0, 1, 0, 0)"/>
+</svg>

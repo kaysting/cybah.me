@@ -368,6 +368,7 @@ p:not(:last-child) {
 #accountsCont .account .logo {
     width: 24px;
     height: 24px;
+    user-select: none;
 }
 #accountsCont .account .content {
     display: flex;

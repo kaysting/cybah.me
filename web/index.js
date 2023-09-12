@@ -109,7 +109,7 @@ const loadTimeline = async () => {
     [...elTimeline.querySelectorAll('.content')].pop().classList.add('last');
 };
 
-// Account icons are from https://simpleicons.org/
+// Most account icons are from https://simpleicons.org/
 // They exist under /account-icons and are named "<siteName>-color.svg"
 const loadAccounts = async () => {
     const accounts = (await axios.get('./accounts.json')).data;

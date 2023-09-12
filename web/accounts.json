@@ -3,11 +3,6 @@
     "icon": "discord-color.svg",
     "title": "cybahh"
 }, {
-    "site": "Spotify",
-    "icon": "spotify-color.svg",
-    "title": "Kayla",
-    "href": "https://open.spotify.com/user/dbqectp3dtptpcbdjm5nz9jaa"
-}, {
     "site": "GitHub",
     "icon": "github-color.svg",
     "title": "CyberGen49",
@@ -17,6 +12,11 @@
     "icon": "npm-color.svg",
     "title": "cybergen49",
     "href": "https://www.npmjs.com/~cybergen49"
+}, {
+    "site": "Spotify",
+    "icon": "spotify-color.svg",
+    "title": "Kayla",
+    "href": "https://open.spotify.com/user/dbqectp3dtptpcbdjm5nz9jaa"
 }, {
     "site": "Reddit",
     "icon": "reddit-color.svg",
@@ -49,12 +49,27 @@
     "site": "Steam",
     "icon": "steam-color.svg",
     "title": "Cybah",
-    "href": "https://steamcommunity.com/id/cybergen49/"
+    "href": "https://steamcommunity.com/id/cybergen49"
 }, {
-    "site": "Twitch",
-    "icon": "twitch-color.svg",
-    "title": "cybah2",
-    "href": "https://www.twitch.tv/cybah2"
+    "site": "16personalities",
+    "icon": "16personalities-color.svg",
+    "title": "Kayla (ISFJ-T)",
+    "href": "https://www.16personalities.com/profiles/35b15de7a00c8"
+}, {
+    "site": "Fitbit",
+    "icon": "fitbit-color.svg",
+    "title": "Kayla",
+    "href": "https://www.fitbit.com/user/7VH75F"
+}, {
+    "site": "MonkeyType",
+    "icon": "monkeytype-color.svg",
+    "title": "Cybah",
+    "href": "https://monkeytype.com/profile/Cybah"
+}, {
+    "site": "HumanBenchmark",
+    "icon": "humanbenchmark-color.svg",
+    "title": "CyberOfficial",
+    "href": "https://humanbenchmark.com/users/5f6eaf620c63840001345585"
 }, {
     "site": "Google Maps",
     "icon": "googlemaps-color.svg",
@@ -67,8 +82,9 @@
     "title": "cybahh",
     "href": "https://account.venmo.com/u/cybahh"
 }, {
-    "site": "DeviantArt",
-    "icon": "deviantart-color.svg",
-    "title": "CyberGen49",
-    "href": "https://www.deviantart.com/cybergen49"
+    "site": "PayPal.me",
+    "icon": "paypal-color.svg",
+    "title": "cybahhh",
+    "href": "https://paypal.me/cybahhh",
+    "slug": "paypal"
 }]
