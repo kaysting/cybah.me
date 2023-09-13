@@ -1,12 +1,17 @@
 [{
     "icon": "deployed_code",
-    "title": "Discord bot commissions",
-    "desc": "Want a custom bot for your server but don't have the time or knowledge to make one? Fear not! I'll develop it for you for a fair price! Add me on Discord <b>@cybahh</b> to get started."
+    "title": "Discord Bot and Web Development Commissions",
+    "desc": "Want a Discord bot or custom website but don't have the time or skills needed to put them together yourself? I'm here to help! I'll develop your bot and/or website to fit your needs all for a fair hourly price, and I can even host them for you! Contact me on Discord <b>@cybahh</b> to get started."
 }, {
     "href": "https://github.com/CyberGen49/discord-chatgpt",
     "icon": "smart_toy",
     "title": "Discord ChatGPT",
     "desc": "A Discord bot that allows users to interact with OpenAI's GPT large language models and DALL-E image generators."
+}, {
+    "href": "https://github.com/CyberGen49/cyberfiles-lite",
+    "icon": "folder_open",
+    "title": "CyberFiles Lite",
+    "desc": "A (not so) bare-bones file index built to work with Node.js Express and look like GitHub's file browser, complete with file previews and more!"
 }, {
     "href": "https://github.com/CyberGen49/spigot-deaths",
     "icon": "skull",
@@ -22,11 +27,6 @@
     "icon": "travel_explore",
     "title": "CyberTPR",
     "desc": "A simple random teleportation plugin for Spigot Minecraft servers."
-}, {
-    "href": "https://github.com/CyberGen49/cyberfiles-lite",
-    "icon": "folder_open",
-    "title": "CyberFiles Lite",
-    "desc": "A (not so) bare-bones file index built to work with Node.js Express and look like GitHub's file browser, complete with file previews and more!"
 }, {
     "href": "https://cybot.simplecyber.org",
     "icon": "smart_toy",
