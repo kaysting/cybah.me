@@ -3,6 +3,11 @@
     "title": "Discord Bot and Web Development Commissions",
     "desc": "Want a Discord bot or custom website but don't have the time or skills needed to put them together yourself? I'm here to help! I'll develop your bot and/or website to fit your needs all for a fair hourly price, and I can even host them for you! Contact me on Discord <b>@cybahh</b> to get started."
 }, {
+    "href": "https://tiktok.simplecyber.org",
+    "icon": "movie",
+    "title": "TikTok API",
+    "desc": "A website hosting various endpoints to get rich embeds, direct downloads, and JSON metadata for TikTok videos given a video ID."
+}, {
     "href": "https://github.com/CyberGen49/discord-chatgpt",
     "icon": "smart_toy",
     "title": "Discord ChatGPT",
