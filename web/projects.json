@@ -5,7 +5,7 @@
 }, {
     "href": "https://tiktok.simplecyber.org",
     "icon": "movie",
-    "title": "TikTok API",
+    "title": "TikTok API and Rich Embed Generator",
     "desc": "A website hosting various endpoints to get rich embeds, direct downloads, and JSON metadata for TikTok videos given a video ID."
 }, {
     "href": "https://github.com/CyberGen49/discord-chatgpt",
