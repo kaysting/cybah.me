@@ -1,7 +1,8 @@
 [{
-    "icon": "deployed_code",
-    "title": "Discord Bot and Web Development Commissions",
-    "desc": "Want a Discord bot or custom website but don't have the time or skills needed to put them together yourself? I'm here to help! I'll develop your bot and/or website to fit your needs all for a fair hourly price, and I can even host them for you! Contact me on Discord <b>@cybahh</b> to get started."
+    "href": "https://github.com/CyberGen49/sftp-browser",
+    "icon": "smb_share",
+    "title": "SFTP Browser",
+    "desc": "A web-based SFTP file browser that makes managing your server files easy, complete with a file viewer, text editor, and complete API."
 }, {
     "href": "https://tiktok.simplecyber.org",
     "icon": "movie",
