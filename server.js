@@ -31,6 +31,8 @@ for (const account of accounts) {
     console.log(`Account short link: /${slug} -> ${account.href}`);
 }
 
+srv.use('/test/*', (req, res) => res.status(404).end());
+
 srv.use((req, res) => res.redirect('/'));
 
 srv.listen(port, () => console.log(`Listening on ${port}`));
