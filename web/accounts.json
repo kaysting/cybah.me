@@ -87,4 +87,10 @@
     "title": "cybahhh",
     "href": "https://paypal.me/cybahhh",
     "slug": "paypal"
+}, {
+    "site": "Ko-fi",
+    "icon": "kofi-color.svg",
+    "title": "cybah",
+    "href": "https://ko-fi.com/cybah",
+    "slug": "kofi"
 }]

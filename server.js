@@ -1,6 +1,10 @@
 
+const path = require('path');
 const express = require('express');
 const logger = require('cyber-express-logger');
+// Require local cyberfiles-lite
+// Install with `npm i cyberfiles-lite`
+const cyberfiles = require('/home/scn/node/cyberfiles-lite');
 
 const sanitizeStringForUrl = (string) => {
     return string.replace(/ /gi, '-').replace(/[^a-z0-9-]/gi, '').toLowerCase();
@@ -19,7 +23,13 @@ srv.use((req, res, next) => {
     next();
 });
 
-srv.use(express.static(`${__dirname}/web`));
+srv.use(cyberfiles({
+    handle_404: false,
+    show_path_subfolders: false,
+    root: path.join(__dirname, 'web'),
+    icon: '/logo-circle.png',
+    site_name: 'Cybah.me'
+}));
 
 const accounts = require('./web/accounts.json');
 for (const account of accounts) {
@@ -30,9 +40,5 @@ for (const account of accounts) {
     });
     console.log(`Account short link: /${slug} -> ${account.href}`);
 }
-
-srv.use('/test/*', (req, res) => res.status(404).end());
-
-srv.use((req, res) => res.redirect('/'));
 
 srv.listen(port, () => console.log(`Listening on ${port}`));
