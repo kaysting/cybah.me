@@ -199,7 +199,7 @@ p:not(:last-child) {
     margin-bottom: 25px;
     font-family: 'Oduda';
     font-size: 130px;
-    color: hsl(var(--bgHue), var(--bgSat), 90%);
+    color: hsl(var(--bgHue), var(--bgSat), 92%);
     filter:
         drop-shadow(0px 3px 4px hsla(var(--bgHue), var(--bgSat), 30%, 20%))
         drop-shadow(0px 12px 16px hsla(var(--bgHue), var(--bgSat), 30%, 20%))
