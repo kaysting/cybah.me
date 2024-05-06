@@ -1,18 +1,13 @@
 [{
+    "href": "https://github.com/CyberGen49/discord-chatgpt-v2",
+    "icon": "smart_toy",
+    "title": "Discord ChatGPT v2",
+    "desc": "A Discord bot that allows users to interact with OpenAI's GPT large language models."
+}, {
     "href": "https://github.com/CyberGen49/sftp-browser",
     "icon": "smb_share",
     "title": "SFTP Browser",
     "desc": "A web-based SFTP file browser that makes managing your server files easy, complete with a file viewer, text editor, and complete API."
-}, {
-    "href": "https://tiktok.simplecyber.org",
-    "icon": "movie",
-    "title": "TikTok API and Rich Embed Generator",
-    "desc": "A website hosting various endpoints to get rich embeds, direct downloads, and JSON metadata for TikTok videos given a video ID."
-}, {
-    "href": "https://github.com/CyberGen49/discord-chatgpt",
-    "icon": "smart_toy",
-    "title": "Discord ChatGPT",
-    "desc": "A Discord bot that allows users to interact with OpenAI's GPT large language models and DALL-E image generators."
 }, {
     "href": "https://github.com/CyberGen49/cyberfiles-lite",
     "icon": "folder_open",

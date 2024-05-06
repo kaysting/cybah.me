@@ -2,7 +2,7 @@
     "year": 2003, "month": 1, "day": 2,
     "title": "The beginning",
     "desc": [
-        "From birth, I was mesmerized by screens. My parents would put on TV programs for me and I would watch the music visualizer in iTunes on the computer. The bright colours of both had me captivated."
+        "From birth, I was mesmerized by screens. My parents would put on TV programs for me and I would watch the music visualizer in iTunes on the computer. The bright colors of both had me captivated."
     ]
 }, {
     "year": 2008,
@@ -107,6 +107,14 @@
         "At this point, I started posting pictures of places on Google Maps, which amassed millions of views over time."
     ]
 }, {
+    "year": 2018, "month": 1,
+    "title": "The Mechanical Union",
+    "desc": [
+        "In collaboration with one of the teachers I knew best, we started a robotics club at our high school. This meant weekly or bi-weekly meetings where we would work on projects, learn about robotics, and prepare for competitions.",
+        "In practice, however, progress was very slow and we never actually competed. The club was more of a social gathering for my close friends than anything as the aforementioned teacher didn't do much in the way of pushing us towards success.",
+        "The club and its meetings would stick around until the pandemic hit, at which point everything was boxed up and forgotten."
+    ]
+}, {
     "year": 2018, "month": 4,
     "title": "The SimpleCyber Network",
     "desc": [
@@ -155,7 +163,7 @@
     "title": "osu!",
     "desc": [
         "One of my friends had started playing osu!, a rhythm game where you click circles to the beat of music. He introduced it to me and I was hooked. I've always loved music, and being able to tap along to it and look super cool in the process felt amazing!",
-        "This game would consume most of the rest of my year."
+        "This game would consume most of the rest of my year and most of the next."
     ]
 }, {
     "year": 2021, "month": 11,
@@ -211,6 +219,20 @@
     "desc": [
         "I had finally become pretty certain of my gender identity and what I wanted, and I was sick of being in denial, so I decided it was finally time to embrace being trans! What followed was a transformation of my online profiles to a new look and having my friends and family start using my new name, Kayla, and she/her pronouns to refer to me.",
         "I still had a long way to go before I could feel like my authentic self, but I was finally on the right track, and I had built a good support system to fall back on should I need help!"
+    ]
+}, {
+    "year": 2023, "month": 12, "day": 14,
+    "title": "Fem&ms",
+    "desc": [
+        "After waiting for 6 months to get an appointment with a gender specialist to discuss my discoveries and hopefully start my medical transition, I was prescribed a series of medications to help feminize my body, those being estradiol, spironolactone, and progesterone.",
+        "This had been a long time coming for me and I had already been thinking about starting hormone replacement since I originally came out a year ago, so I was very excited to finally make it happen!"
+    ]
+}, {
+    "year": 2024, "month": 2, "day": 16,
+    "title": "Moving out",
+    "desc": [
+        "As I continued to explore myself and my identity, I felt a growing need to go out, meet people, and have new experiences. Living at home in a sleepy suburb made this difficult, and my parents are very private people, so we decided it was finally time for me to move out on my own.",
+        "I ended up in an apartment in the heart of Downtown Houston, where I'm close to everything I need, making getting groceries and commuting to school a breeze. As I was imagining, I can see people with a lot less effort and explore myself more, which is a big win."
     ]
 }, {
     "useCurrentDate": true,

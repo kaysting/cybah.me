@@ -23,6 +23,8 @@ srv.use((req, res, next) => {
     next();
 });
 
+srv.use(express.static(path.join(__dirname, 'web')));
+
 srv.use(cyberfiles({
     handle_404: false,
     show_path_subfolders: false,
