@@ -3,6 +3,11 @@
     "icon": "discord-color.svg",
     "title": "cybahh"
 }, {
+    "site": "Email",
+    "icon": "gmail-color.svg",
+    "title": "kayla@cybah.me",
+    "href": "mailto:kayla@cybah.me"
+}, {
     "site": "GitHub",
     "icon": "github-color.svg",
     "title": "CyberGen49",
@@ -48,7 +53,7 @@
 }, {
     "site": "Steam",
     "icon": "steam-color.svg",
-    "title": "Cybah",
+    "title": "cybergen49",
     "href": "https://steamcommunity.com/id/cybergen49"
 }, {
     "site": "16Personalities",

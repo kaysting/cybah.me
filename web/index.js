@@ -116,7 +116,13 @@ const loadAccounts = async () => {
     elAccounts.innerHTML = '';
     for (const account of accounts) {
         const slug = sanitizeStringForUrl(account.slug || account.site);
-        const shortLink = window.location.origin + '/' + slug;
+        let shortLink = '';
+        let hrefType = '';
+        if (account.href) {
+            shortLink = window.location.origin + '/' + slug;
+            if (!account.href.startsWith('http')) shortLink = account.href;
+            hrefType = account.href.split(':').shift().toLowerCase();
+        }
         elAccounts.innerHTML += `
             <div class="account">
                 <img class="logo" src="./account-icons/${account.icon}">
@@ -126,8 +132,8 @@ const loadAccounts = async () => {
                         <div class="title">${account.title}</div>
                     </div>
                     ${account.href ? `
-                        <a href="${shortLink}" target="_blank" class="btn" title="${account.href}">
-                            <div class="icon">open_in_new</div>
+                        <a href="${shortLink}" ${hrefType == 'https' ? 'target="_blank"' : ''} class="btn" title="${account.href}">
+                            <div class="icon">${hrefType == 'mailto' ? 'mail' : 'open_in_new'}</div>
                         </a>
                     `:''}
                 </div>

@@ -4,7 +4,7 @@ const express = require('express');
 const logger = require('cyber-express-logger');
 // Require local cyberfiles-lite
 // Install with `npm i cyberfiles-lite`
-const cyberfiles = require('/home/scn/node/cyberfiles-lite');
+const cyberfiles = require('/home/kayla/node/cyberfiles-lite');
 
 const sanitizeStringForUrl = (string) => {
     return string.replace(/ /gi, '-').replace(/[^a-z0-9-]/gi, '').toLowerCase();
@@ -36,6 +36,7 @@ srv.use(cyberfiles({
 const accounts = require('./web/accounts.json');
 for (const account of accounts) {
     if (!account.href) continue;
+    if (!account.href.startsWith('http')) continue;
     const slug = sanitizeStringForUrl(account.slug || account.site);
     srv.get(`/${slug}`, (req, res) => {
         res.redirect(account.href);
