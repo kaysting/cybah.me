@@ -34,18 +34,6 @@
     "href": "https://www.youtube.com/@cybergen49",
     "slug": "yt-main"
 }, {
-    "site": "YouTube",
-    "icon": "youtube-color.svg",
-    "title": "CDI Productions",
-    "href": "https://www.youtube.com/@cdiproductions8035",
-    "slug": "yt-cdi"
-}, {
-    "site": "YouTube",
-    "icon": "youtube-color.svg",
-    "title": "SCN Official",
-    "href": "https://www.youtube.com/@scnofficial8453",
-    "slug": "yt-scn"
-}, {
     "site": "osu!",
     "icon": "osu-color.svg",
     "title": "Cybahh",
@@ -76,7 +64,7 @@
     "title": "CyberOfficial",
     "href": "https://humanbenchmark.com/users/5f6eaf620c63840001345585"
 }, {
-    "site": "Google Maps",
+    "site": "Google Maps Local Guide",
     "icon": "googlemaps-color.svg",
     "title": "Kayla",
     "href": "https://www.google.com/maps/contrib/103985333402100090631",
