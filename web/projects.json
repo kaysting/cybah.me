@@ -4,6 +4,10 @@
     "title": "This website",
     "desc": "My home base for telling the world about myself, my projects, and where to find me."
 }, {
+    "icon": "shield_with_heart",
+    "title": "TransGamers BlahajBot",
+    "desc": "A Discord bot I solo develop for the TransGamers Discord community packed full of moderation and access control tools. The code is private."
+}, {
     "href": "https://github.com/CyberGen49/discord-chatgpt-v2",
     "icon": "reviews",
     "title": "Discord ChatGPT v2",
