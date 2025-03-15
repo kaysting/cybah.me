@@ -1,2 +1,3 @@
-/web/test/*
+/web/test
+/web/files
 !/web/test/gpt-webdev-guide
