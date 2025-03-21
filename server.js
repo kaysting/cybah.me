@@ -22,6 +22,10 @@ srv.use((req, res, next) => {
 
 srv.use(express.static(path.join(__dirname, 'web')));
 
+srv.get(`/repo/:name`, (req, res) => {
+    res.redirect(`https://github.com/CyberGen49/${req.params.name}`);
+});
+
 const accounts = require('./web/accounts.json');
 for (const account of accounts) {
     if (!account.href) continue;
