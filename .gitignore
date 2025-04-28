@@ -1,3 +1,4 @@
 /web/test
 /web/files
 !/web/test/gpt-webdev-guide
+/node_modules
