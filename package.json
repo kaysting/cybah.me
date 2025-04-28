@@ -1,0 +1,24 @@
+{
+  "name": "kaysting.dev",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "homepage": "https://github.com/CyberGen49/cybah.me#readme",
+  "bugs": {
+    "url": "https://github.com/CyberGen49/cybah.me/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberGen49/cybah.me.git"
+  },
+  "license": "ISC",
+  "author": "kaysting",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}

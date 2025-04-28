@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybah.me</title>
+    <link rel="icon" href="./logo-circle.png">
+    <meta name="theme-color" content="#ffccdd">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Cybah.me">
+    <meta property="og:title" content="Hi, I'm Kayla!">
+    <meta property="og:description" content="Click to learn more about me!">
+    <meta name="description" content="Click to learn more about me!">
+    <link rel="stylesheet" href="https://src.simplecyber.org/fonts/comfortaa.css">
+    <link rel="stylesheet" href="https://src.simplecyber.org/fonts/material-symbols-outlined.css">
+    <link rel="stylesheet" href="index.css">
+    <script defer src="https://src.simplecyber.org/lib/axios.min.js"></script>
+    <script defer src="index.js"></script>
+</head>
+<body>
+    <div id="background"></div>
+    <div id="backgroundOverlay"></div>
+    <div id="main">
+        <div id="mainRow">
+            <button class="navBtn" onClick="changeCards(true)">arrow_back</button>
+            <div id="cards">
+                <div id="head" data-title="Hi there!">
+                    <div class="subhead">Hey there! I'm</div>
+                    <div id="name">Kayla</div>
+                </div>
+                <div id="projects" class="card" data-title="Projects">
+                    <div class="heading">
+                        Projects
+                    </div>
+                    <div class="body">
+                        <div id="projectsCont"></div>
+                        <div style="display: flex; justify-content: center;">
+                            <p style="text-align: center; width: 600px; margin-bottom: 10px;">I keep this page updated with just the projects I'm actively maintaining or am especially proud of. There's tons more published on my GitHub!</p>
+                        </div>
+                        <div style="display: flex; justify-content: center;">
+                            <a href="https://github.com/CyberGen49?tab=repositories" target="_blank" class="btn">
+                                <div class="icon material-symbols-outlined-rounded">open_in_new</div>
+                                <span>All GitHub repos</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div id="about" class="card" data-title="About me">
+                    <div class="heading">
+                        About me
+                    </div>
+                    <div class="body">
+                        <div id="profile">
+                            <img class="logo" src="./logo.png">
+                            <div class="content">
+                                <div class="basics">
+                                    <span class="name">Kayla</span>
+                                    <span class="age">-</span>
+                                </div>
+                                <div class="detail" title="Other names">
+                                    <div class="icon material-symbol outlined rounded">badge</div>
+                                    <div class="content">AKA: Cybah, CyberOfficial, CyberGen49</div>
+                                </div>
+                                <div class="detail" title="Bio">
+                                    <div class="icon material-symbol outlined rounded">sticky_note_2</div>
+                                    <div class="content">I write code and vibe!</div>
+                                </div>
+                                <div class="detail" title="Pronouns">
+                                    <div class="icon material-symbol outlined rounded">person</div>
+                                    <div class="content">she/her</div>
+                                </div>
+                                <div class="detail" title="Education">
+                                    <div class="icon material-symbol outlined rounded">school</div>
+                                    <div class="content">
+                                        Studying Computer Science
+                                        <br>University of Houston Class of 2025
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="timelineCont"></div>
+                    </div>
+                </div>
+                <div id="accounts" class="card" data-title="Accounts">
+                    <div class="heading">
+                        My accounts
+                    </div>
+                    <div class="body">
+                        <div id="accountsCont"></div>
+                        <p>Wanna talk? Add me on Discord or DM me on Reddit! I'd love to hear from you!</p>
+                    </div>
+                </div>
+            </div>
+            <button class="navBtn" onClick="changeCards()">arrow_forward</button>
+        </div>
+        <div id="mobileNavRow">
+            <button class="navBtn" onClick="changeCards(true)">arrow_back</button>
+            <button class="navBtn" onClick="changeCards()">arrow_forward</button>
+        </div>
+    </div>
+</body>
+</html>

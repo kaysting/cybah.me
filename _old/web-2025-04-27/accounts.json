@@ -1,17 +1,17 @@
 [{
     "site": "Discord",
     "icon": "discord-color.svg",
-    "title": "cybahh"
+    "title": "kaysting"
 }, {
     "site": "Email",
     "icon": "gmail-color.svg",
-    "title": "kayla@cybah.me",
-    "href": "mailto:kayla@cybah.me"
+    "title": "kaysting@proton.me",
+    "href": "mailto:kaysting@proton.me"
 }, {
     "site": "GitHub",
     "icon": "github-color.svg",
-    "title": "CyberGen49",
-    "href": "https://github.com/CyberGen49"
+    "title": "kaysting",
+    "href": "https://github.com/kaysting"
 }, {
     "site": "npm",
     "icon": "npm-color.svg",
