@@ -7,11 +7,7 @@ body {
     color: white;
     padding: 0px;
     margin: 0px;
-    background: linear-gradient(
-        135deg,
-        hsl(var(--hue),            20%, 30%) 0%,
-        hsl(calc(var(--hue) - 45), 20%, 30%) 100%
-    );
+    background: hsl(var(--hue), 10%, 20%);
 }
 
 body, * {
@@ -62,15 +58,6 @@ small {
     font-weight: 500;
 }
 
-#bg {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-}
-
 .shadow {
     filter:
         drop-shadow(0px 4px 6px hsla(var(--hue), 20%, 5%, 50%))
@@ -87,7 +74,7 @@ small {
 .navbar .inner {
     overflow: hidden;
     border-radius: 64px;
-    background: hsla(var(--hue), 10%, 20%);
+    background: hsla(var(--hue), 10%, 25%);
 }
 
 .navbar .scroller {
@@ -111,7 +98,7 @@ small {
 .navbar .tab {
     --bg: transparent;
     --text: hsl(var(--hue), 20%, 90%);
-    --bg-hover: hsl(var(--hue), 10%, 30%);
+    --bg-hover: hsl(var(--hue), 10%, 35%);
     --text-hover: white;
     height: 36px;
     padding: 0px 12px;
@@ -158,41 +145,40 @@ small {
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: center;
-    overflow: hidden;
-    overflow-y: auto;
+    overflow: auto;
     scroll-behavior: smooth;
-}
-
-#content {
-    display: flex;
     flex-direction: column;
-    width: 1000px;
-    max-width: 100%;
 }
 
-#content .jumbotron {
+.jumbotron {
+    width: 100%;
+    height: calc(100% - 8px);
+    padding: 32px 16px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 32px 16px;
     flex-shrink: 0;
     text-align: center;
-    height: 100%;
     min-height: fit-content;
     line-height: 1;
+    background: linear-gradient(
+        135deg,
+        hsl(calc(var(--hue) + 30),            20%, 30%) 0%,
+        hsl(calc(var(--hue) - 30), 20%, 30%) 100%
+    );
+    border-radius: 0px 0px 32px 32px;
 }
-#content .jumbotron .subtitle {
+.jumbotron .subtitle {
     font-size: 42px;
     font-weight: 800;
     color: hsl(var(--hue), 30%, 80%);
 }
-#content .jumbotron .title {
+.jumbotron .title {
     font-size: 128px;
     font-weight: 900;
     color: hsl(var(--hue), 30%, 90%);
 }
-#content .jumbotron .subsubtitle {
+.jumbotron .subsubtitle {
     font-size: 28px;
     font-weight: 600;
     color: hsl(var(--hue), 20%, 60%);
@@ -200,34 +186,36 @@ small {
     line-height: 1.2;
 }
 
-#content .hint {
+.hint {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 16px;
+    padding: 0px 16px;
     flex-shrink: 0;
     text-align: center;
     font-weight: 700;
     color: hsl(var(--hue), 30%, 80%);
     overflow-y: visible;
     height: 0px;
-    transform: translateY(-96px);
+    transform: translateY(-80px);
 }
-#content .hint .icon {
+.hint .icon {
     font-family: 'Material Symbols Outlined';
     font-size: 48px;
     margin-bottom: -8px;
     user-select: none;
 }
-#content .hint .text {
+.hint .text {
     font-size: 18px;
 }
 
-#content .cards {
+.cards {
     display: flex;
     flex-direction: column;
     gap: 16px;
-    padding: 32px 8px;
+    padding: 48px 8px 32px 8px;
+    width: 100%;
+    align-items: center;
 }
 
 .card {
@@ -238,6 +226,9 @@ small {
     flex-direction: column;
     gap: 8px;
     flex-shrink: 0;
+    width: 1000px;
+    max-width: 100%;
+    box-shadow: 0px 2px 4px hsla(var(--hue), 20%, 5%, 50%);
 }
 
 .card .top {
@@ -297,5 +288,11 @@ small {
     }
     .card .body .stamp {
         margin-bottom: 0px;
+    }
+}
+
+@media (max-width: 400px) {
+    .jumbotron .title {
+        font-size: 96px;
     }
 }

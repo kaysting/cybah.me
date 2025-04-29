@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, hueUpdateIntervalMs);
 
     const elMain = document.querySelector('#main');
-    const elCards = elMain.querySelectorAll('#content .cards .card');
+    const elCards = elMain.querySelectorAll('.cards .card');
     const elTabs = document.querySelectorAll('.navbar .tab');
 
     elMain.addEventListener('scroll', () => {
