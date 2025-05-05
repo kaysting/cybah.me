@@ -1,7 +1,7 @@
 const path = require('path');
 const express = require('express');
 const dayjs = require('dayjs');
-const index = require('/home/kayla/node/express-file-index');
+const index = require('/home/kayla/projects/express-file-index');
 
 const port = 8255;
 const app = express();
