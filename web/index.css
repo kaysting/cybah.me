@@ -26,7 +26,6 @@ body, * {
 
 b {
     font-weight: 800;
-    color: white;
 }
 
 p, li {
@@ -276,9 +275,20 @@ small {
     padding: 8px 12px;
     break-inside: avoid;
     margin-bottom: 8px;
+    display: flex;
+    gap: 12px;
+}
+.card .body .stamp .icon {
+    font-family: 'Material Symbols Outlined';
+    font-size: 24px;
+    color: hsl(var(--hue), 20%, 80%);
+    flex-shrink: 0;
+    user-select: none;
+    font-weight: normal;
 }
 .card .body .stamp p {
     line-height: 1.2;
+    flex-grow: 1;
 }
 
 @media (max-width: 700px) {
